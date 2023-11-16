@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduating in the technical course in electrotechnics at IFPE - CAMPUS RECIFE, working at Tramontina Delta S/A - Várzea and I am studying Systems Analysis and Development through the program from Embarque Digital in partnership with Porto Digital, Residence Onboard - Porto Digital, Centro Universitário Senac, I am focused on becoming a Full Stack developer system.
+I am studying Systems Analysis and Development through the program from Embarque Digital in partnership with Porto Digital, Residence Onboard - Porto Digital, Centro Universitário Senac, I am focused on becoming a Full Stack developer system.
 
 
 ## 🌐 Socials:
