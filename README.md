@@ -4,6 +4,8 @@
 
 <h3 align="left">Atualmente, estou estudando Análise e Desenvolvimento de Sistemas no programa Embarque Digital, em parceria com o Porto Digital, a Residência Onboard - Porto Digital e a Faculdade Senac Pernambuco. Tenho interesse nas áreas de Desenvolvimento Backend e Ciência de Dados.</h3>
 
+<h2 align="left">I code with</h2>
+
 ###
 
 <div align="center">
